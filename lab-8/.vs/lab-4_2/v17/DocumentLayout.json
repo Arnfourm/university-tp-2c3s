@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|c:\\users\\\u0430\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\desktop\\\u0442\u043F\\lab-4.2\\lab-4.2\\docs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\docs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8778A70-894B-45DB-9CE1-B46D5DF5984A}|lab-4.2\\lab-4_2.csproj|solutionrelative:lab-4.2\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Docs.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Docs.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Docs.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Docs.cs",
+              "RelativeToolTip": "lab-4.2\\Docs.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:06:49.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Persons.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Persons.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Persons.cs",
+              "RelativeToolTip": "lab-4.2\\Persons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:26:03.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Result.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Result.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Result.cs",
+              "RelativeToolTip": "lab-4.2\\Result.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:54:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Result.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Result.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab-4.2\\Result.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:43:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Subjects.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Subjects.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Subjects.cs",
+              "RelativeToolTip": "lab-4.2\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:24:26.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Form1.cs",
+              "RelativeDocumentMoniker": "lab-4.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\u0438\u0434\u0437\u0435\\Desktop\\\u0422\u043F\\lab-4.2\\lab-4.2\\Form1.cs",
+              "RelativeToolTip": "lab-4.2\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:16:33.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
